@@ -1,7 +1,7 @@
 {
   "name": "js-robloxapi",
   "version": "1.0.5",
-  "description": "Get info the api roblox",
+  "description": "Get info the api roblox, npm package",
   "main": "index.js",
   "keywords": [
     "npm",
